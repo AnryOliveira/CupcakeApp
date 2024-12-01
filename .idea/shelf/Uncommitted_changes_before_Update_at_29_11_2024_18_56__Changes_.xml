@@ -1,0 +1,1320 @@
+<changelist name="Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]" date="1732917408463" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 29/11/2024 18:56 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gfjg+BLapidTebr1BNEEs3xP76I=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/FragmentDetailsBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LbI_SnD4KMvivXSGxvrO5uIYctY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/model/Order.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EQOKzzp3SU+W+q7pLSp1T3Z2nXs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mTqD15NvX6P1KA2wn26an2Gbf3E=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/model/Cupcake.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$special$$inlined$viewModel$default$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VErJljnSHYVYnvzjGjv+6tT8g7k=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ry7Ix8fc59iecuRjVNy4e4NYq+k=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_WkAGl1OKX2AuVq3gMe9v7W0NKE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$addObserver$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WBCN0jb_8fopOMoN2MP_2CFUc8U=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/java_res/debug/out/META-INF/app_debug.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Px3EGCK7ZJGwTiQz_JodbyljN_0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Q1uvVDwwILU0ASzzLQ0TqjDeqmI=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/FragmentCartBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1P1fGEuF6i0ZWXVFZvjZZFRGFUs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hqiU+Nfxq0GY5ptFLS0mYIb_loY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/resources-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ybzx7b8N1YrrkA3jY4DbiC4m2u8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3M0RhmtVDf2paY0T2UY6cOGsTHI=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/V5EOirPAX82BY6TmgkQcsrTlS+k=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wqnFLYk9yEluRr3q6UyxPGXek2c=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QHlo++LOq+jIvi9PmMSGrzlms+g=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository$createOrUpdateOrder$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TAh6DraxgLL2m2Nuukx35_FLy+U=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oaBKB4AwijKvfsh79K7Inn2G+9w=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/x4UbJpS1GDVjDtN7zw_Q+SWwZtc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dS+mCYPwMVBHTN9_04XW7vlp+cw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/afhpNjh6zylyifTgEBcFag6zFaw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeAdapter.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$getCupcakes$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CLrr+HUb8hBavQPJWBBOaQ+eEkk=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartAdapter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_cc97327428047627c402995aadd18a956481283adaced3308be4fd3be5b91e3a_bucket_1/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AG13q780lhJlGBQuOqpaF99BAyE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AjdLTIQu2fC9_TcExwXtIdihGSs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eGqrZUVOKDs4netQ3S6G7l6fIb4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$addObserver$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lgLi3FpkjSDuzmQ2Mh+4VMDn_kM=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$sam$androidx_lifecycle_Observer$0.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debugAndroidTest/META-INF/app_debugAndroidTest.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/27OhKYh1KpqvDkfvdvlr2LqgrCM=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/usBs1g00iwe_GZovY44_RRkX+0A=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U90sM6h5Qb8kKHk27gAkKwYhE8c=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WRhMwUuDi+1eumxZ5NxYRe3edY0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/Myapplication$onCreate$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_java_res/debug/base.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$setupRecyclerView$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8dx0TF_haPkxb8UFgPNYeufRhN8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PPFtwM59ITsJrPKVfLcM73d0ZSs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3WTxxCszyy0BdlzDJnDv83kes88=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/utils/UtilsKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+yvNQVC6HL0F4BKaa6idTdc0RIc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xizRhP4xcItXQ3iOPGx5J8nl7SI=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/Myapplication$onCreate$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/Myapplication.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository$addCupcakeMocked$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository$getAllOrders$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zheIECgWNi91fa652Nl8KmblVUA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/t_D4wI72rIbODP2a8W4I98NDDcw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/o35_VhoJe5JbfsknpZxIjDQQY0w=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jUrzmM06LfU+yP7jhQ1AKykFaMc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$removeCupcakeFromOrder$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fdxOzWYNsR+o5pFKGSY2hAosdUk=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hPhWQyPmbgIL7aPIEcNqWY6BaDU=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/values_values.arsc.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/values_values.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/values_values.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fpAKqsXianllFsi1BRLUk6CCn9o=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_A18ySJwbWeGyuIgnVpCUrHWlvE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZCM1xjeREzZenUnSncKRRuwbhew=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.0/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/model/Address.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ov2Rs_17hb9Bx+nAMtdoVs2btTc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/S29UaJxFdMb+2SAbaRfBC8sJqQw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/ActivityMainBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$addObserver$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$setupRecyclerView$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_cc97327428047627c402995aadd18a956481283adaced3308be4fd3be5b91e3a_bucket_2/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nFFea6HEg2DWXDOL7xT1J_qVZhs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WskkGcyhCWgd_ZLBpaA71PxGvsE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/FragmentDetailsBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wg4omeTacN5KAR79asMh3XUj63w=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsViewModel$createOrderForCheckout$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/ItemHomeBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/224S5amN22UYboS9ewJ+W24UAhc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CartFragmentKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/isBG5wlhhaxlcf3FKEXxHciFRC4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartAdapter$CartViewHolder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Y2v_X7TCFQfOcXr7Vv9F3lcapCg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wnDQqhvxQ10czrTVLXr9_KABEIQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fxjp1gRzpbmli7216VHKNz5cMz0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsViewModel.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/checksums/md5-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0/checksums/md5-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/md5-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/FragmentHomeBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/76CeDBv0vzp1lwECocyBXA8ji8I=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections$Companion.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WjuW4oRw3ygBnNr2acyMKRAfyqM=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l71ICAOJ4Ky7KD1rWFzxHLkCths=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections$ActionNavHomeToDetailsFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$navArgs$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$loadOrders$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oXZAALg_OzIjiKXj8_KkFhyHhA4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.0/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DhZjPzLM56cBwr5flGyHzqP9JdE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2NDVVou11golaNacH3tCnAB_Y5s=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$populateFirebaseWithCupcakes$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/W9PxNOWwC6couH9OGm4pxbMwFGA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/ActionBarCartIconBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qtlwEj1bKjVcT8JH1lGXqkyIgAA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KMxJJX8OlaksyZ7ARzF5G1F857Q=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/utils/FragmentKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/J_zbYQoeOwUlpMkaEH34+uIVh9s=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zMPumg9sGWeMzr+bUF7hXsP8WnU=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/outputFiles.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WOpZuH66YNAEyHpMG8gxYQPLEv8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/FragmentHomeBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WAOqrOuKZEatfBfpohIQFa6fcbo=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_cc97327428047627c402995aadd18a956481283adaced3308be4fd3be5b91e3a_bucket_3/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OwXKI8Pgh7e+BO1KzZCA0u_gDqU=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeAdapter$HomeViewHolder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UV2niraZrc99tJrWHVxOLBRwow4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l5Set3vF1H1IYHpkRIUS6uO6gDY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l2wtZgyXRkfl17iI9_nzxvOlex4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oRUtI0Qe4Ae6HlGZbHortpqWXmg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$addCupcake$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/ActionBarCartIconBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$navArgs$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oefujh6NbnqPRvkcpC3vU3DB7wY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeAdapter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$setupRecyclerView$1$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lDqGTckdqcrLTEhymLd3MtzD2bo=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$addObserver$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bPWfXmBXyG5qwJn8kEWdXEKnZ_4=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Iz3fhygtY8BwdUca7dxaS9bHgNQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/ItemCartBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsViewModel$createOrderForCheckout$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ALD0XKgqf5Umpcbsnc3I8WFIY14=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragmentArgs.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YWBk2tSSngesJoBFqI1YmOyVrn0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository$addCupcakeMocked$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ijv0J3W_4Vw6Sv3s_2p4Ai7voTw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/ItemCartBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hYoelP75a_+gXm4FNZUPrlmceqc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NggPrbCViyBdhtGLrqmjThhwqAs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rCkcMVoeouIzbNNpNvCtu4r_BcE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7eM2bqqBOFHxCRjNzek+zy0RsKQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TBTOXti_62C9sJTn2ucQABAF588=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+5__cOwn2in93jaaLMkwRX6dYR0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+U4xnZyH637ES2RXFGzTRC7VA6Q=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository$getCupcakes$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragmentArgs$Companion.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_OUF07eSARSTIOcGH3YUAJQSODA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$addObserver$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex_number_of_buckets_file/debug/out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/atEZasDK7RSHOPRErUMXsk+dc24=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/model/Client.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zMcqLZbHG3E5_Dg0zxDKz_0dKWs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/C2cCgoxN+znzbTo8oCBeIxgxucY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NDSXFzTxnG9XJVnTXKWQVdaX77Y=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ek4yEXIUlDqpTY3vp+xDrpt+fCM=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragmentArgs.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4Aqgpx6zXN3c18UBALxGQC1CIXE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/utils/FragmentViewBindingDelegate.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U467ZcEsx9pLcrYJbaEO6P24Exg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/e5W1pt0GScnvUdMWnXnhZn3HG8s=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$sam$androidx_lifecycle_Observer$0.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dJpC9zniBdV_RSGEvtLrf5+fYIk=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/suOJtq7S8rxIDZtwVRKFQxTtAY0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HTMZO3uJX4bMxvQd8I_WRUr39EA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qZBQSMFaeYJ3+oCUTndq2GEAlJE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository$createOrUpdateOrder$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository$getAllOrders$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tW96ZXt2jPHjzy+Jn0KNZIlyjJE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/utils/FragmentKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/MainActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7sfPGHYFW0mQc8CAPAOlDAICncI=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vwz3ZX+0kxvAB4TZAunl8Hs_nSU=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$addObserver$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$special$$inlined$viewModel$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeAdapter$HomeViewHolder.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/I2RugeEQ6mQ43UZetAIbLQiFjvg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/model/Cupcake.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/model/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/model/Order.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/model/Address.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.0/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$getCupcakes$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1AAbLR7rg+iyqeN4tA3mn+rcbLs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Wn4w4Ctd+FW6mua3oOrvtFZ6Uw=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uucLjNl3JXFc3DvwVviaZZJM400=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$addCupcake$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$removeCupcakeFromOrder$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6qGnEplS3bdW1OPlFzxUlpny9sg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/utils/UtilsKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LlSmvLfEo5EOMbmpnL+bPHrMRwQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FfCjQiHsPbqXAQ_usSGF6Hzmzck=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartAdapter.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jD0FGrWwq48grYUql_tRBpHvVbc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/databinding/ItemHomeBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NUeOjkQ9A+AagO4rltiUONw2M6o=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragmentArgs$Companion.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$addCupcakeToOrder$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8QDUA++O7W+eADS_dfJf+0tVNnY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$sam$androidx_lifecycle_Observer$0.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/khYUP+i1nDb1Yv8hmsCSXlXcj9M=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$sam$androidx_lifecycle_Observer$0.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/utils/FragmentViewBindingDelegate.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XpzMSenK4fcPGd5wU31ZmvWx+iQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debugAndroidTest/com/dmribeiro87/cupcakeapp/ExampleInstrumentedTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/CupcakeRepository$getOrderById$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$loadOrders$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$special$$inlined$viewModel$default$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/htlVud2PHprkdbvfhwdy0d7dGNI=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4t9JOHSd7wM1q55iSvC6sDHwbzg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bbq54CU7yXvZGRsZk2+fruAoNvQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lerEOV3aE6J7P0rBixlUq6wdwrg=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$addCupcakeToOrder$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$setupRecyclerView$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dtaAS7GaEQBf4W39MhenG2pT+6g=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$setupRecyclerView$1$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ebFYbOV3DK7Jd+K2qE1th+PybuA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections$ActionNavHomeToDetailsFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository$getOrderById$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0KidYQKh0tnz43Fg5sZXbk8c5x8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$setupRecyclerView$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$special$$inlined$viewModel$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/CupcakeRepository$getCupcakes$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/cart/CartAdapter$CartViewHolder.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hXGjJclpQAwRW5ZcNj8xqqIOxD8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WpmnFVae97rA+D9NzAiqz_D8pSY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$sam$androidx_lifecycle_Observer$0.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeViewModel$populateFirebaseWithCupcakes$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/a5IX8jTeWz2YbOPIfd6f9cpCikc=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/ActivityMainBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/K+nCtmudG5FvlOlLZJB+k3+eK2o=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/di/DependencyModuleKt$appModule$1$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XBIcTX2t+OhrOVrHlO_v4Yk5Ixo=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragmentDirections$Companion.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="gradle/wrapper/gradle-wrapper.jar" />
+    <option name="AFTER_PATH" value="gradle/wrapper/gradle-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/gradle-wrapper.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/MainActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4FAhHAB5E0_6IbnAmyuJSExX+jE=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xrTa2kjiDMS_zyAKrYB1QPlePDA=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GQpGGyFGOwcMUkVCzSu3Jc_neU0=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1dXf8zAer1WcanBOhFRG84E0vqk=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$loadOrders$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartFragment$sam$androidx_lifecycle_Observer$0.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$addObserver$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$special$$inlined$viewModel$default$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Yp0tKBPEydnizCOwey0HfONcl9g=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/taYcC9dyoiNUmfWHblV4RiFbiak=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8I89gbjElNfSMOEZAMO0F+0rKjs=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EwgiHs_AzuFS9hgBjqW+hgaUqRY=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_cc97327428047627c402995aadd18a956481283adaced3308be4fd3be5b91e3a_bucket_0/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vROo3O1mEIBElDoVfyfnU6xyUwQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/dmribeiro87/cupcakeapp/ui/details/DetailsFragment$special$$inlined$viewModel$default$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LqfhOe1VKFALuqpiLbtAl4MN5K8=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/Myapplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tzzfGl0SaPrCUEAItR_Ar5psQNo=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/details/DetailsViewModel.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/G2KVVjJJ82b8Jq5rd9OoPCEKKtQ=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/weUf1Gddvwucf4SVt2jnYJhJ99o=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/cart/CartViewModel$loadOrders$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.0/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.0/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2024_18_56_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/dmribeiro87/cupcakeapp/databinding/FragmentCartBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/dmribeiro87/cupcakeapp/ui/home/HomeFragment$addObserver$1.class" />
+  </binary>
+</changelist>

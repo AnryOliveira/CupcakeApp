@@ -1,0 +1,6 @@
+com.dmribeiro87.cupcakeapp.test.app-annotation-experimental-1.3.0-0 C:\Users\nozmo\.gradle\caches\transforms-3\691559f68735d064d50ce6d795cda664\transformed\annotation-experimental-1.3.0\res
+com.dmribeiro87.cupcakeapp.test.app-core-1.5.0-1 C:\Users\nozmo\.gradle\caches\transforms-3\aaa8ab87cb63d7775c11a9b48f828245\transformed\core-1.5.0\res
+com.dmribeiro87.cupcakeapp.test.app-androidTest-2 C:\Users\nozmo\StudioProjects\CupcakeApp\app\build\generated\res\resValues\androidTest\debug
+com.dmribeiro87.cupcakeapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\nozmo\StudioProjects\CupcakeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dmribeiro87.cupcakeapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\nozmo\StudioProjects\CupcakeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dmribeiro87.cupcakeapp.test.app-merged_res-5 C:\Users\nozmo\StudioProjects\CupcakeApp\app\build\intermediates\merged_res\debugAndroidTest
