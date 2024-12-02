@@ -1,6 +1,6 @@
 # CupcakeApp
 
-## About
+## Sobre
 
 Este aplicativo foi desenvolvido como projeto de conclusão de curso do curso de Engenharia de Software na Faculdade Cruzeiro do Sul.
 
